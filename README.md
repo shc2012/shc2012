@@ -7,7 +7,7 @@
 - 📫电子邮件shc20122024@outlook.com
 
 - 😄代词：代码很有趣
-
+-你可以在https://shc2012.github.io/shcweb/了解我
 - ⚡有趣的事实：编译一个新程序
 - 👋 Hi, I’m @shc2012
 - 👀 I’m interested in c++
@@ -15,7 +15,7 @@
 - 📫 email to me at shc20122024@outlook.com
 - 😄 Pronouns: code is fun 
 - ⚡ Fun fact: Compile a new program
-
+- You can learn about me at https://shc2012.github.io/shcweb/
 <!---
 shc2012/shc2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

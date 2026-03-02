@@ -4,7 +4,7 @@
 
 - 🌱我目前正在学习c++和python和rust
 
-- 📫电子邮件shc@shc88.xyz
+- 📫电子邮件shc@578388.xyz
 
 - 😄代词：代码很有趣
 -你可以在https://shc2012.github.io/shcweb 中了解我
@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @shc2012
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++ and python and rust
-- 📫 email to me at shc@shc88.xyz
+- 📫 email to me at shc@578388.xyz
 - 😄 Pronouns: code is fun 
 - ⚡ Fun fact: Compile a new program
 - You can learn about me at https://shc2012.github.io/shcweb know me
